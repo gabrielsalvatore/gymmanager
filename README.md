@@ -1,32 +1,67 @@
-<h1 align="center">
-    Next Level Week by <img src="public/assets/rocketseat.svg">
-    </h1>
-  
-  <p align="center">
-  <img width="250" src="public/assets/logo-nlw.svg">
+<p align="center">
+  <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
 </p>
 
-_________
+<div align="center">
 
-### 🤔 What is it? 
-NLW is an online experience developed by Rocketseat of a week
-with a lot of practical content and challenges.
-It is a project that helps us to go to the next "level" of our career.
-  
-### ✨ About the project:
-<img src="public/assets/logo.svg">
-Ecoleta is a project created to manage the process of trash collection in cities. 
-With him, it is possible to help people to find places where they can take their 
-trash to be collected in a more efficient way
-  
-### 👀 My learning in this weekend:
-(Day 1) - Today is the first day of the NLW, where we already developed the home page of the application using HTML and CSS. It was my first contact with HTML and my second contact with CSS where I could put my skin in the game practicing then. I had the oppurtunity of
-networking with other devs that were participating in the event, sharing knowledge and ideas.
+[![GitHub stars](https://img.shields.io/github/stars/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
 
-(Day 5 and the last) -Wow!! What a week! Over these 5 days, I had a total immersion at this incredible project.
-We've learned how to utilize JavaScript, Git, NodeJS, Nunjucks, database and etc. Each
-of the new knowledge was very valuable. By now I only have to be grateful to Rocketseat and to the other devs that I have met over this weekend and this unique experience that
-they have provided.
+</div>
 
-<h4 align="center"> THE END </h4>
+## 📋 Índice
 
+- [Sobre](#-Sobre)
+- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
+- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Preview](#-Preview)
+
+---
+
+## 🖥 Preview 
+
+<p align="center">
+  <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
+</p>
+
+---
+
+## 📖 Sobre 
+
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
+
+A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! 
+
+--- 
+
+## 🚀 Tecnologias utilizadas
+
+O projeto está desenvolvido utilizando as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- Node.js 
+- Nunjucks 
+- SQLite 
+
+--- 
+
+## ⌨ Como executar o projeto
+
+```bash
+# Clonar o repositório
+git clone https://github.com/guilhermecapitao/proffy-discovery
+
+# Entrar no diretório
+cd proffy-discovery
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+
+---
