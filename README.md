@@ -19,6 +19,7 @@
 
 <p align="center">
   <img src="https://ik.imagekit.io/uafxvegvbr1/gym1_hlbV2g7jF.jpg" >
+  <img src="https://ik.imagekit.io/uafxvegvbr1/Screenshot_3_0S2qJaoB_.jpg">
 </p>
 
 ---
