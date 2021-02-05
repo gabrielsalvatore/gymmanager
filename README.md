@@ -18,7 +18,7 @@
 ## 🖥 Preview 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/uafxvegvbr1/Screenshot_1_uhJDFXoHh.jpg" width="700" >
+  <img src="https://ik.imagekit.io/uafxvegvbr1/Screenshot_2_o3D-IB9Y3.jpg" width="700" >
 </p>
 
 ---
