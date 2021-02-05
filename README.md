@@ -29,7 +29,7 @@
 
 Este é um projeto desenvolvido durante o bootcamp **Launchbase**, realizado pela **[@Rocketseat](https://github.com/Rocketseat)**.
 
-A proposta do projeto é uma aplicação para a adminstração de academais. Facilitando o encontro e o facilitamento da relação entre o estudante e o instrutor.
+A proposta do projeto é uma aplicação para a adminstração de academais. Facilitando o encontro e o facilitamento da relação entre o membro e o instrutor.
 --- 
 
 ## 🚀 Tecnologias utilizadas
