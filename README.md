@@ -20,7 +20,9 @@
 <p align="center">
   <img src="https://ik.imagekit.io/uafxvegvbr1/gym1_hlbV2g7jF.jpg" >
   <img src="https://ik.imagekit.io/uafxvegvbr1/Screenshot_3_0S2qJaoB_.jpg">
+  ## Criar um novo Instrutor
   <img src="https://ik.imagekit.io/uafxvegvbr1/Screenshot_1_1ThRm1Q9Y.jpg">
+  ## Criar um novo Membro
   <img src="https://ik.imagekit.io/uafxvegvbr1/Screenshot_4_-802lS1baq.jpg">
 </p>
 
